@@ -21,8 +21,8 @@ A robust and extensible Python-based API testing framework that automates functi
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/api-testing-framework.git
-cd api-testing-framework
+git clone [https://github.com/your-username/api-testing-framework.git](https://github.com/shreyash2509/Intelligent-API-Testing-Framework.git)
+cd Intelligent-API-Testing-Framework.git
 ```
 
 2. (Optional but recommended) Create a virtual environment:
