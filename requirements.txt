@@ -1,0 +1,8 @@
+streamlit
+requests
+openai
+python-dotenv
+html
+json
+time
+threading
